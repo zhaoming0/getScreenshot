@@ -1,1 +1,1 @@
-# getScreenshot
+# getScreen
